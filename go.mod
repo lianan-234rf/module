@@ -1,4 +1,4 @@
-module github.com/lianan-234rf/module.git
+module github.com/lianan-234rf/module
 
 go 1.13
 
