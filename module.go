@@ -1,4 +1,4 @@
-package main
+package module
 
 import (
 	test "github.com/lianan-234rf/module-test"
